@@ -1,0 +1,12 @@
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+D:\d2\geo\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
